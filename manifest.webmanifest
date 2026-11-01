@@ -1,0 +1,12 @@
+{
+  "name":"Studio Ghibli: The World of Words",
+  "short_name":"World of Words",
+  "description":"Magical classroom name picker and group adventure generator",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "orientation":"portrait",
+  "background_color":"#fff9e9",
+  "theme_color":"#284b3a",
+  "icons":[]
+}
